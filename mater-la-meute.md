@@ -26,6 +26,16 @@ Ainsi Lesley J. Wood décrit ainsi la manière dont l'utilisation des diffuseurs
 
 ## La police de proximité
 
+Le début du livre décrit l'instauration de la police de proximité.
+
+En France, la police de proximité ayant été instaurée par Lionel Jospin et supprimée par Nicolas Sarkozy, je pensais qu'il s'agissait d'une idée «de gauche», mais le livre montre qu'il n'en est rien.
+
+L'idée de la police de proximité est de rapprocher la police des citoyen·ne·s pour permettre de mieux adapter aux besoin des personnes.
+
+Si la théorie semble louable, la réalité est que ce besoin de rapprochement la police de la population est rendu nécessaire par la diminution progressive des financements des services sociaux qui laisse un vide que la police de proximité est chargée de combler.
+
+On bascule donc d'un accompagnement des personnes par les services sociaux au contrôle des personnes par les forces de police.
+
 ## L'influence de l'anti-terrorisme
 
 Depuis le 11 septembre 2001, la lutte contre le terrorisme est devenue une préoccupation importante de l'État.
@@ -38,11 +48,11 @@ En effet l'anti-terrorisme a pour objectif de se protéger de ce qui peut arrive
 
 Lors des manifestations, la police avait plutôt l'habitude de réagir en fonction de ce qui se passait à un moment donné, en adaptant au fur et à mesure sa réponse aux comportements des manifestant·e·s.
 
-Avec la diffusion dans la police des approches anti-terroriste, les forces de l'ordre ont tendance à les appliquer à la gestion des manifestations.
+Mais avec la diffusion dans la police des approches anti-terroriste, les forces de l'ordre ont tendance à les appliquer à la gestion des manifestations, même s'il s'agit d'un tout autre cadre.
 
 S'appuyant sur des rumeurs, ou des messages diffusés dans les réseaux sociaux et parfois isolés de leur contexte, la police va se préparer au pire.
 
-Cela signifie utiliser systématiquement un équipement lourd permettant de se protéger, et réagir à tout comportement inattendu comme s'il s'agissait d'une menace.
+Cela signifie vouloir contrôler au maximum les manifestations, déployer de très nombreuses personnes équipées d'un équipement lourd et réagir à tout comportement inattendu comme s'il s'agissait d'une menace.
 
 ## Les bon·ne·s manifestant·e·s et les mauvais·e·s
 
