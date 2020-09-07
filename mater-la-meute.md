@@ -91,6 +91,6 @@ Cela passe notamment par des liens privilégies avec les unités les plus influe
 
 Les pratiques policières sont de plus en plus violentes, et les pouvoir publics ferment les yeux.
 
-Vouloir réformer la police s'est risquer qu'elle rechigne à faire le sale travail qui consiste à maintenir le contrôle sur les populations que le pouvoir considère comme « à problème».
+Vouloir réformer la police c'est risquer qu'elle rechigne à faire le sale travail qui consiste à maintenir le contrôle sur les populations que le pouvoir considère comme « à problème».
 
 Et on comprend pourquoi aux USA la police est de plus en plus vue comme non-réformable.
