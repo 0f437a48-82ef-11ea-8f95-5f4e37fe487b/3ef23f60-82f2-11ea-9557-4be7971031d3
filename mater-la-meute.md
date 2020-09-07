@@ -1,10 +1,10 @@
 # Mater la meute par Lesley J. Wood, éditions Lux
 
-Dans ce livre, sous-titré "La militarisation de la gestion policière des manifestations", l'auteure étudie l'évolution des tactiques de maintien de l'ordre en Amérique du Nord (New-York, Washington, Montreal et Toronto), et en particulier la montée de la violence vis-à-vis des manifestations.
+Dans ce livre, sous-titré « La militarisation de la gestion policière des manifestations», l'auteure étudie l'évolution des tactiques de maintien de l'ordre en Amérique du Nord (New-York, Washington, Montreal et Toronto), et en particulier la montée de la violence vis-à-vis des manifestations.
 
 Lesley J. Wood s'appuie sur l'approche de Pierre Bourdieu en analysant les forces et contraintes qui s'exercent sur les groupes formés par les différentes forces de polices, pour montrer que les changements qui ont lieu se font en partie en réaction à des demandes d'autres groupes, par exemple les responsables politiques ou les entreprises vendeuses d'armes.
 
-Si le texte ne se veut pas militant en lui-même, par exemple l'autrice ne propose pas de mesures à appliquer, il n'est pas neutre car nourrit par l'expérience personnelle de manifestante de Lesley J. Wood.
+Si le texte ne se veut pas militant en lui-même, par exemple l'auteure ne propose pas de mesures à appliquer, il n'est pas neutre car nourrit par l'expérience personnelle de manifestante de Lesley J. Wood.
 
 ## L'indépendance des forces de l'ordre
 
@@ -24,11 +24,13 @@ Cette capacité à ne pas rendre de compte rend très difficile de changer les p
 
 Ainsi Lesley J. Wood décrit ainsi la manière dont l'utilisation des diffuseurs de gaz poivres s'est répandue alors même que très tôt l'efficacité de l'arme était mise en doute.
 
+De manière plus générale, les armes à létalité réduite, qui devraient en théorie permettre d'éviter l'emploi d'armes à feu, sont plutôt employées en suppléments, dans des situations où auparavant aucune arme n'était employée.
+
 ## La police de proximité
 
 Le début du livre décrit l'instauration de la police de proximité.
 
-En France, la police de proximité ayant été instaurée par Lionel Jospin et supprimée par Nicolas Sarkozy, je pensais qu'il s'agissait d'une idée «de gauche», mais le livre montre qu'il n'en est rien.
+En France, la police de proximité ayant été instaurée par Lionel Jospin et supprimée par Nicolas Sarkozy, je pensais qu'il s'agissait d'une idée « de gauche», mais le livre montre qu'il n'en est rien.
 
 L'idée de la police de proximité est de rapprocher la police des citoyen·ne·s pour permettre de mieux adapter aux besoin des personnes.
 
@@ -56,6 +58,39 @@ Cela signifie vouloir contrôler au maximum les manifestations, déployer de tr�
 
 ## Les bon·ne·s manifestant·e·s et les mauvais·e·s
 
-## La diffusion des « bonnes pratiques »
+Le titre du livre « mater la meute» décrit bien l'approche moderne de la gestion de la manifestation.
+
+Des personnes qui manifestent sont vues comme un désagrément porteur de trouble, qu'il faut autant que possible maîtriser.
+
+Cela signifie par exemple restreindre l'espace de liberté des manifestant·e·s pour faire en sorte que leur action perturbe le moins possible l'espace public.
+Par exemple forcer les manifestations à se tenir loin des endroits visibles, ce qui signifie réduire sa visibilité.
+
+C'est comme si l'espace public appartenait à la police, et que permettre à une foule de l'occuper était ressenti comme un échec.
+
+La technique de la nasse, qui consiste à isoles des groupes de manifestan·e·s afin de briser l'unité du groupe, est ainsi utilisée non pas en réaction à une menace, mais en punition quand des manifestant·e·s ne respectent pas la volonté de la police.
+
+## La diffusion des « bonnes pratiques»
+
+La police comme les autres institutions subit la pression pour aller vers un système plus « managérial».
+
+Cela pousse les différentes forces de police à s'inspirer de ce qui se fait ailleurs pour pouvoir justifier que les équipements ou les procédures qu'elle veulent mettre en œuvre correspondent à des « bonnes pratiques», ce qui leur donnera une forme de légitimité.
+
+La conséquence est le renforcement des structures d'échanges entre polices de différents pays, mais aussi et surtout l'augmentation de l'influence de certains corps de police vu comme prestigieux, comme la police de New-York, qui sont aussi souvent les promoteurs des approches les plus violentes et les plus restrictives.
+
+Cela signifie que lorsqu'existent des pratiques locales moins violentes, elles doivent se défendre contre ces approches plus prestigieuses.
 
 ## L'influence des entreprises
+
+Le dernier élément expliquant l'augmentation de la violence est l'influence des entreprises vendant des armes et qui ont appris comment influencer les corps de polices.
+
+Cela passe notamment par des liens privilégies avec les unités les plus influentes décrites plus haut, afin que la diffusion des bonnes pratiques s'accompagne de la diffusion de l'équipement adéquat, mais aussi par la production de doctrine à destination de force de police devant convaincre les pouvoirs publics.
+
+## En conclusion
+
+À la sortie du livre le constat est plutôt sombre.
+
+Les pratiques policières sont de plus en plus violentes, et les pouvoir publics ferment les yeux.
+
+Vouloir réformer la police s'est risquer qu'elle rechigne à faire le sale travail qui consiste à maintenir le contrôle sur les populations que le pouvoir considère comme « à problème».
+
+Et on comprend pourquoi aux USA la police est de plus en plus vue comme non-réformable.
