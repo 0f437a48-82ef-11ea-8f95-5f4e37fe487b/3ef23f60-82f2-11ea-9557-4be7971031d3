@@ -10,7 +10,7 @@ Si le texte ne se veut pas militant en lui-même, par exemple l'auteure ne propo
 
 Comme on l'a dit plus haut, les forces de l'ordre font partie d'un système.
 
-Si elles portent leur part de responsabilité propre, elles ne sont choisissent pas seules leurs pratiques ou les moyens qu'elles mettent en œuvre.
+Si elles portent leur part de responsabilité propre, elles ne choisissent pas seules leurs pratiques ou les moyens qu'elles mettent en œuvre.
 
 Mais, d'après le texte, une des caractéristiques importantes des forces de polices, qui les différencient des autres institutions, c'est son niveau d'indépendance vis-à-vis du pouvoir politique, alors qu'elle est sensé être placée sous son autorité.
 
