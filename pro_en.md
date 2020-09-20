@@ -1,12 +1,8 @@
-# Maintenant nous sommes tou·te·s des profressionnel·le·s : Ou comment les personnes qui travaillent dans les épiceries sont devenues des « héro·ïne·s » essentiel·e·s ?
+# We Are All Professionals Now: Or, How Did Grocery Workers Become Essential “Heroes”?
 
-Il s'agit de la traduction de [cet article](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034], merci à Ted Lee de l'avoir écrit et de nous avoir donné la permission de le traduire.
+https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034
 
-La pandémie globale de COVID-19 a révélé de nombreuses contradictions bizarres et étranges du capitalisme contemporain.
-Un de ces paradoxes en particulier est l'étiquette « travailleur·se essentiel·le ».
-Aloes que la plupart des formes de commerces, d'affaires, de productions et d'échanges se sont arrêtées pour minimiser la propagation du virulent coronavirus, certains secteurs de la société ont été désignés comme essentiel pour l'équipage réduit chargé de garder une société en quarantaine à flot.
-En passant, un grand nombre de ces « travailleur·se·s essentiel·le·s » se trouvent parmis les employé·e·s les plus mal payé·e·s et les plus précaires.
-
+The COVID-19 global pandemic has laid bare many of the strange and bizarre contradictions of contemporary capitalism.
 One of these paradoxes in particular is the label “essential worker.” As most forms of commerce, business, production, and exchange shut down to minimize the spread of the virulent coronavirus, certain sectors of society have been designated as essential to the skeleton crew keeping a quarantined society afloat.
 Incidentally, many of these “essential workers” turn out to be some of the worst paid and most precariously employed.
 However, rather than, say, bump up their pay and benefits as befitting of their essential status within society, capitalists have turned to calling them heroes.
