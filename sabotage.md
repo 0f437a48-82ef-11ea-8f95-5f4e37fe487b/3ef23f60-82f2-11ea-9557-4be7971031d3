@@ -1,5 +1,7 @@
 # Le commit invisible
 
+*objectif du livre/essai* présenter la situation écologiste et capitaliste, les issues possibles et l'urgence de mener une révolution fractale, à la fois violente et non-violente. Présenter aussi l'opportunité qu'est l'informatique comme cible d'une stratégie de sabotage. 
+
 
 ### Manuel de sabotage pour informaticiens et informaticiennes écologistes 
 
