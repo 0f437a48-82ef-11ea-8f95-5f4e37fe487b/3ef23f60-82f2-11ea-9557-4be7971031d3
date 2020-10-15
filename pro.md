@@ -1,6 +1,6 @@
 # Maintenant nous sommes tou·te·s des profressionnel·le·s : Ou comment les personnes qui travaillent dans les épiceries sont devenues des « héro·ïne·s » essentiel·e·s ?
 
-Il s'agit de la traduction de [cet article](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034], merci à Ted Lee de l'avoir écrit et de nous avoir donné la permission de le traduire.
+Il s'agit de la traduction de [cet article](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034), merci à Ted Lee de l'avoir écrit et de nous avoir donné la permission de le traduire.
 
 <!---
 The COVID-19 global pandemic has laid bare many of the strange and bizarre contradictions of contemporary capitalism.
