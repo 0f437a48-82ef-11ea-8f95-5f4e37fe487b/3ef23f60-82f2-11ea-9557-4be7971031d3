@@ -2,30 +2,59 @@
 
 Il s'agit de la traduction de [cet article](https://medium.com/@teioh/we-are-all-professionals-now-or-how-did-grocery-workers-become-heroes-4cba3ffcc034], merci à Ted Lee de l'avoir écrit et de nous avoir donné la permission de le traduire.
 
-La pandémie globale de COVID-19 a révélé de nombreuses contradictions bizarres et étranges du capitalisme contemporain.
-Un de ces paradoxes en particulier est l'étiquette « travailleur·se essentiel·le ».
-Aloes que la plupart des formes de commerces, d'affaires, de productions et d'échanges se sont arrêtées pour minimiser la propagation du virulent coronavirus, certains secteurs de la société ont été désignés comme essentiel pour l'équipage réduit chargé de garder une société en quarantaine à flot.
-En passant, un grand nombre de ces « travailleur·se·s essentiel·le·s » se trouvent parmis les employé·e·s les plus mal payé·e·s et les plus précaires.
-
-One of these paradoxes in particular is the label “essential worker.” As most forms of commerce, business, production, and exchange shut down to minimize the spread of the virulent coronavirus, certain sectors of society have been designated as essential to the skeleton crew keeping a quarantined society afloat.
+<!---
+The COVID-19 global pandemic has laid bare many of the strange and bizarre contradictions of contemporary capitalism.
+One of these paradoxes in particular is the label “essential worker.”
+As most forms of commerce, business, production, and exchange shut down to minimize the spread of the virulent coronavirus, certain sectors of society have been designated as essential to the skeleton crew keeping a quarantined society afloat.
 Incidentally, many of these “essential workers” turn out to be some of the worst paid and most precariously employed.
 However, rather than, say, bump up their pay and benefits as befitting of their essential status within society, capitalists have turned to calling them heroes.
 In some cases, these newly minted heroes are given “hero pay” — a paltry increase in hourly wages — that are already being rescinded despite the fact that infection rates in the US continue to grow exponentially.
 Hence, these heroes will sacrifice their bodies and health on the front lines of civic society because that is what is expected of their jobs.
 And, don't worry, we'll applaud them and give them laudatory slogans and other self-empowerment tripe to compensate them for literally risking their lives.
+-->
+La pandémie globale de COVID-19 a révélé de nombreuses contradictions bizarres et étranges du capitalisme contemporain.
+Un de ces paradoxes en particulier est l'étiquette « travailleur·se essentiel·le ».
+Aloes que la plupart des formes de commerces, d'affaires, de productions et d'échanges se sont arrêtées pour minimiser la propagation du virulent coronavirus, certains secteurs de la société ont été désignés comme essentiel pour l'équipage réduit chargé de garder une société en quarantaine à flot.
+En passant, un grand nombre de ces « travailleur·se·s essentiel·le·s » se trouvent parmis les employé·e·s les plus mal payé·e·s et les plus précaires.
+Pourtant, plutôt que, par exemple, augmener leur salaire et leurs avantages d'une manière qui correspondent à leur statut de personnes essentielle à la société, les capitalistes ont choisis de les appeler héro·ïne·s.
+Dans certains cas, ces héro·ïne·s fraîchement nommés reçoivent une « paie pour héro·ïne·s », une dérisoire augmentation de leur salaire horaire, qui est déjà en train d'être arrêtée malgré le fait que les taux d'infections aux USA continuent à augmenter exponentiellement.
+Par conséquence, ces héro·ïne·s vont sacrifier leurs corps et leur santé sur le front de la société civile car c'est ce qui est attendu de leurs postes.
+Et, ne vous inquiétez pas, nous les applaudirons et nous leur offrirons des slogans élogieux et d'autres foutaises autonomisantes en dédomagement pour littéralement risquer leurs vies.
 
-How did it come to this?
-How did grocery and fast food workers — once a type of employment used to threaten and scare unruly children in school to behave — become essential and heroic?
-And why are they still paid in peasant wages?
-One clue may be a paper written by sociologist Harold Wilensky titled “The Professionalization of Everyone?” published in 1964.
-Wilensky considered the idea that eventually, every job would become a profession and every worker a professional.
-In the end, he concluded that the idea of the professionalization of everyone “is a bit of sociological romance” (156).
-However, he did mention, “It may also be true that the empirical, critical, rational spirit of science finds its way into an increasing number of occupations” that leads to “a happy integration of professional and civil culture” (157).
+<!---
+The COVID-19 global pandemic has laid bare many of the strange and bizarre contradictions of contemporary capitalism.
+One of these paradoxes in particular is the label “essential worker.”
+As most forms of commerce, business, production, and exchange shut down to minimize the spread of the virulent coronavirus, certain sectors of society have been designated as essential to the skeleton crew keeping a quarantined society afloat.
+Incidentally, many of these “essential workers” turn out to be some of the worst paid and most precariously employed.
+However, rather than, say, bump up their pay and benefits as befitting of their essential status within society, capitalists have turned to calling them heroes.
+In some cases, these newly minted heroes are given “hero pay” — a paltry increase in hourly wages — that are already being rescinded despite the fact that infection rates in the US continue to grow exponentially.
+Hence, these heroes will sacrifice their bodies and health on the front lines of civic society because that is what is expected of their jobs.
+And, don't worry, we'll applaud them and give them laudatory slogans and other self-empowerment tripe to compensate them for literally risking their lives.
+-->
 
+Comment en est-ton arrivé là ?
+Comment les personnes qui travaillent dans les épiceries et les fast-foods, autrefois des activités utilisées pour menacer et effrayer les enfants indisciplinés à l'écoles pour les rendre sage, sont-elles devenues essentielles et héroïques ?
+Et pourquoi sont-elles toujours payées une misère ?
+Un indice se trouve peut-être dans un article écrit par le sociologue Harold Wilensky et intitulé « La professionalisation de tout le monde ? » (« The Professionalization of Everyone? ») et publié en 1964.
+Wilensky a examiné l'idée qu'au final tous les emplois deviendront des professions, et que tous les travailleur·euse·s des professionnel·le·s.
+À la fin, il conclut que l'idée de la professionalisation de tout le monde est « un peu une romaine sociologique » (156).
+Toutefois il mentionne «Il est également vrai que l'esprit empirique, critique, rationnel des science fait son chemin dans un nombre croissant d'occupations» et qui mène à « une intégration heureuse de la culture professionnelle et civile. » (157).
+
+<!---
 This may sound weird to readers today, but Wilensky's assertion was a bit of a hot take in the 1960s.
 What's so controversial about everyone being a professional, or at the very least, acting like one?
 It isn't uncommon for us to praise someone for their professional behavior, many of us have been told by teachers in school how important it is to learn to behave professionally when we enter the workforce, and certainly at one point or another in our lives most of us have considered someone unprofessional.
 And when someone calls us unprofessional, we bristle at the very insult.
+To be considered unprofessional, well, that's an attack on our very character.
+We all instinctively understand this, and the fact that this statement — the idea of universal professionalism — isn't controversial to us today is a sign of its utter victory.
+That's because the world Wilensky lived and worked within was on the cusp of a fundamental, traumatic transformation, the consequences of which we now grapple with today.
+-->
+
+Cela peut sembler étrange aux personnes d'aujourd'hui, mais la déclaration de Wilensky était provoquante dans les années 1960.
+Qu'il a-t-il de si controversé dans le fait que tout le monde soit un·e professionnel·le, ou du moins, qu'il·elle agisse comme tel·le ?
+Il n'est pas rare pour nous de féliciter une personne pour son comportement professionnel, et beaucoup d'entre nous se sont entendu dire par leur professeur·e·s à l'école à quel point il est important d'apprendre à se comporter de manière professionnelle lorsque viendrait le moment d'entrer dans le monde du travail, et certainement que la plupart d'entre nous ont dans leur vie déjà considéré une personne comme non-professionnelle.
+Et quand quelqu'un nous appelle non-professionnel·le, l'insulte nous hérisse.
+
 To be considered unprofessional, well, that's an attack on our very character.
 We all instinctively understand this, and the fact that this statement — the idea of universal professionalism — isn't controversial to us today is a sign of its utter victory.
 That's because the world Wilensky lived and worked within was on the cusp of a fundamental, traumatic transformation, the consequences of which we now grapple with today.
