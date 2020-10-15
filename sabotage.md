@@ -1,5 +1,7 @@
 # Le commit invisible
 
+*objectif du livre/essai* présenter la situation écologiste et capitaliste, les issues possibles et l'urgence de mener une révolution fractale, à la fois violente et non-violente. Présenter aussi l'opportunité qu'est l'informatique comme cible d'une stratégie de sabotage. 
+
 
 ### Manuel de sabotage pour informaticiens et informaticiennes écologistes 
 
@@ -9,6 +11,10 @@
 
 
 ## Pourquoi lutter 
+
+(objectif du chapitre, introduction, état des lieux de nos sociétés, danger de l'inaction, attente de la solution, besoin de changer les choses maintenant) 
+
+
 Le monde va mal. Derrière cette phrase passe-partout qui pourrait être dite aussi bien par le Renaud des années 80 que par le Renaud des années 2020, se cache une réalité autrement plus terrifiante. 
 Les émissions de CO2 ne cessent d'augmenter, les inégalités battent des records années après années et l'on continue d'assister béatement à l'absurdité d'un monde productiviste qui n'a pas tenu ses promesses. Rien n'est à sauver, rien n'est à garder, les organisations masquent mal la désorganisation générale. Le collectif est détruit et l'individu mis sur un piédestal. Les mots perdent leur sens, on ne sait plus, et on ne critique plus le capitalisme, on ne critique que les capitalistes. La fraternité a foutu le camp derrière la liberté. La liberté de consommer. La liberté de polluer. La liberté d'insulter. Les amis ont disparus, ils ont été remplacés par un réseau Twitter et linkedin. On ne parle plus du système, on ne parle plus de bourgeoisie, on ne parle plus de nos camarades. Le lien social (encore un concept insensé un lien n'est que social) n'existe que comme tentative de remettre l'individu au centre d'une démarche marketing. Les néologismes ne sont tolérés que s'ils viennent d'une démarche d'amélioration continue japonaise ou américaine, sinon ils sont forcément une régression pour la sacro-sainte langue de moliere. 
 On s'offusque et on s'indigne, parce que c'est la dernière façon de se sentir appartenir à un groupe, on s'essentialise. 
@@ -53,8 +59,11 @@ Qui aurait le cran de coopter son ami chez criteo, pour qu'il puisse en saboter 
 
 
 ## Multiplicité des luttes
+
+
 On ne change pas de vie. Notre vie est la conséquence irréfutable de son état précédent, notre vie est prolongement, notre vie est continue. 
-On peut la réformer, arrêter de fumer, déménager. On peut commencer à trier ses déchets, on peut arrêter de manger de la viande, on peut arrêter de prendre l'avion. Toutes ces décisions sont des changements de vie, comme les événements changent un agrégat de donnée dans un compte en banque. Une dépense, une recette, une dépense, une recette. Au final, peu importent les décisions prises, notre vie est unique, elle est de notre responsabilité. Savoir ce qu'on veut en faire, c'est aussi savoir ce pourquoi on lutte, quelle direction prendre, quel monde construire. 
+On peut la réformer, arrêter de fumer, déménager. On peut commencer à trier ses déchets, on peut arrêter de manger de la viande, on peut arrêter de prendre l'avion. Toutes ces décisions sont des changements de vie, comme les événements changent un agrégat de données dans un compte en banque. Une dépense, une recette, une dépense, une recette. Finalement, peu importent les décisions prises, notre vie est unique, elle est de notre responsabilité. Savoir ce qu'on veut en faire, c'est aussi savoir ce pourquoi on lutte, quelle direction prendre, quel monde construire. 
+
 Veut on laisser un monde invivable à nos enfants, à nos petits enfants ? Veut on seulement que nos enfants vivent cette deuxième moitié de 21ème siècle ? Rien n'est moins sûr. 
 Une chose est sûr, c'est que le militantisme écologique pacifiste est inutile. Il aura fallu qu'un ministre de l'écologie français (François hulot) s'effondre en larmes sur un plateau télé pour en montrer l'évidence. Cet aveu d'échec, nombreux sont les militants qui en étaient conscients bien avant. 
 
@@ -64,26 +73,34 @@ Maintenant. Pas demain. Pas l'année prochaine. Maintenant. C'est maintenant qu'
 Et maintenant, ça ne sert plus à rien de trier ses déchets, ça ne sert plus à rien d'acheter des légumes bio. Ces solutions sont toujours des libres actions dans le carcan mental de notre société. Personne ne veut que vous ne consommiez moins, vous devez consommer mieux, mais consommer mieux c'est toujours consommer. Vous voulez être militant, vous avez le droit mais il vous faut demander une autorisation à la préfecture pour signifier votre désaccord. Protester, oui, mais selon les règles du système. Aucun système n'a été renversé par ses propres règles. La révolution française a été menée par une minorité d'hommes et de femmes conscientes de l'importance de leur lutte. Seulement 8000 manifestants ont suffit pour prendre d'assaut les tuileries. La révolution ne se fait pas par les masses, la révolution ne se fait pas pacifiquement, ne croyez pas que Gandhi ait fait sa révolution d'indépendance non-violente tout seul. Qui la fait ? Ceux qui font. Ceux qui luttent. Ceux qui pendent à la lanterne le roi, l'envahisseur, l'oppresseur. Le réformisme est un mensonge. Notre vie est réformable en profondeur, la société ne l'est pas. 
 Il nous faut maintenant exploser le système pour le reconstruire de zéro. 
 
+## L'informatique est le nouveau moyen de production
+
+*(objectif du chapitre, dépendance à l'informatique, apathie politique de nos congénères, facilité d'accès, sécurité faible contre un saboteur, l'informatique sert les profits, pas les travailleurs)* 
+
+
+L'informatique n'a pas tenu ses promesses, en automatisant des tâches, l'informatique aurait pu être source de libération, elle n'a fait qu'augmenter la part de profit des actionnaires (source).
 
 Nous avons collectivement un choix à faire. Voulons nous être de ceux qui ouvriront la brèche et qui agiront à renverser un pouvoir en place qui semble indestructible ?
-Voulons nous être de ceux qui conçoivent de zéro une société soutenable et universaliste à la base d'un nouveau contrat social ? 
+Voulons-nous être de ceux qui conçoivent de zéro une société soutenable et universaliste à la base d'un nouveau contrat social ? 
 Ou voulons nous être de ceux qui vivent et profitent d'un monde soutenable sans l'avoir mérité ? 
 Sans les premiers, les deuxièmes travaillent pour rien. Sans les deuxièmes, les troisième n'existeront pas. 
 
-
-Vous pouvez acheter des livres d'économie, de sociologie et d'anarchie, concevoir et réfléchir à des modes d'organisation efficace, et libérer les individus de la souffrance du travail tout en assurant la subsistance pour tous. Vous pouvez reconstruire un monde meilleur. 
-
+Vous pouvez acheter des livres d'économie, de sociologie et d'anarchie, concevoir et réfléchir à des modes d'organisation efficaces, et libérer les individus de la souffrance du travail tout en assurant la subsistance pour tous. Vous pouvez reconstruire un monde meilleur. 
 
 Mais ne le faites pas. Parce que faire ça ne nécessite pas d'abnégation, ne nécessite pas une foi dans un idéal et un monde meilleur. Ouvrez la brèche. 
 
+L'informatique est omniprésente, omnisciente. Tous les actes du quotidien sont informatisés et même les bouilloires ont leur carte mère. Chez les entreprises cette omniprésence est démultipliée, chaque service a ses logiciels, sa base de données, chaque équipe a ses spécificités informatiques. Enlève l'informatique à l'ouvrier et sa machine ne fonctionnera plus. Enlève l'informatique au comptable et il ne pourra plus travailler. Enlève l'informatique au patron et il ne saura plus quoi décider. Dorénavant, plus aucune entreprise ne fonctionne si internet est coupé, si la base de données part en carafe. L'informatique est devenue le moyen de production quasi-universel dans le sens marxiste, c'est-à-dire que l'informatique est ce qui génère de la valeur. Ce ne sont pas les hommes et femmes qui codent ou qui entretiennent ces logiciels et ces datacenters. La valeur est produite par des logiciels. Tout est automatisé, de l'ingestion des données jusqu'à leur traitement, les exports, les rapports, les emails. Nous aurions pu réaliser un rêve socialiste, où le travail d'un ou d'une secrétaire médicale était remplacé par une machine, un bête gestionnaire d'agenda et où cet individu, satisfait de ne plus être contraint par un pseudo marché du travail pourrait combler sa vie d'un travail libre de toutes contraintes économiques. S'occuper de ses parents, s'instruire, apprendre un instrument de musique, etc. 
 
-L'informatique est omniprésente, omnisciente. L'informatique n'a pas tenu ses promesses, en automatisant des tâches, l'informatique aurait pu être source de libération, elle n'a fait qu'augmenter la part de profit des actionnaires (source). Dorénavant, plus aucune entreprise importante ne fonctionne si internet est coupé, si la base de données part en carafe. L'informatique est devenu le moyen de production quasi-universel dans le sens marxiste, c'est à dire que l'informatique est ce qui génère de la valeur. Ce ne sont pas les hommes et femmes qui codent ou qui entretiennent ces logiciels et ces datacenters. La valeur est produite par des logiciels. Tout est automatisé, de l'ingestion des données jusqu'à leur traitement, les exports, les rapports, les emails. Nous aurions pu réaliser un rêve socialiste, où le travail d'un ou d'une secrétaire médicale était remplacé par une machine, un bête gestionnaire d'agenda et où cet individu, satisfait de ne plus être contraint par un pseudo marché du travail pourrait combler sa vie d'un travail libre de toutes contraintes économiques. S'occuper de ses parents, s'instruire, apprendre un instrument de musique, etc. Mais non, nous étions toutes et tous en train de nous écharper pour savoir si Linux ou Windows était le meilleur système d'exploitation, ou s'il fallait indenter notre code avec des tabulations ou des espaces, incapable de réaliser que l'avènement des algorithmes et des machines signerait la fin du travail salarié telle que nous le connaissions par ailleurs. 
+Mais non, nous étions toutes et tous en train de nous écharper pour savoir si Linux ou Windows était le meilleur système d'exploitation, ou s'il fallait indenter notre code avec des tabulations ou des espaces, incapable de réaliser que l'avènement des algorithmes et des machines signerait la fin du travail salarié telle que nous le connaissions par ailleurs.
+
+ 
 Mais cette prolifération du numérique a un point faible, un angle mort. La sécurité informatique est une blague. Une vaste blague. Remplie d'incompétents notoires et de consultants juste bons à faire des slides PowerPoint. Aucun d'entre eux ne sait se connecter à une machine en ssh, aucun d'entre eux ne sait ce que c'est que l'"https". Rien. Du flan. Un gigantesque vide de connaissance, de culture et de curiosité. Capable de nous soutenir les yeux dans les yeux que les analyses de sécurité se font avec SONAR (source) . 
 Leur logiciel (comprendre ici, leur système de pensée logique) se résume à se protéger de hackers malveillants du type qu'on rencontre dans un film hollywoodien et qui voudraient voler des données. 
 Donc l'essentiel de leur métier consiste à dire aux gens de se méfier des ransomwares, et mettre en place des stratégies de protection contre un individu malveillant qui voudrait s'introduire dans un système. 
 Là se trouve l'angle mort. Aucun système n'est pensé à l'heure actuelle pour se prémunir d'une attaque venant d'un développeur en interne, d'un admin réseau, ou d'un ingénieur SRE. 
 Or les actions de sabotage possibles sont nombreuses, indénombrables, et forcément destructrices. 
 Et surtout, s'il est évident que vous vous ferez abattre si vous décidez d'attaquer à l'arme de guerre une tour à la Défense, il n'est pas impossible de penser qu'un individu unique puisse faire tomber la société générale s'il est un peu organisé, avec très peu de chance d'être retrouvé. 
+ 
 
 
 ## Trouvez vos amis. 
@@ -99,7 +116,7 @@ Organisez vous (on a pas besoin d'organisation quand on est organisé) , planifi
 
 
 
-Manuel pratique
+# Manuel pratique
 
 
 
