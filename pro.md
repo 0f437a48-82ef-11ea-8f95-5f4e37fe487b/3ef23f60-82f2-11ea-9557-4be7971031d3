@@ -55,12 +55,14 @@ Qu'il a-t-il de si controversé dans le fait que tout le monde soit un·e profes
 Il n'est pas rare pour nous de féliciter une personne pour son comportement professionnel, et beaucoup d'entre nous se sont entendu dire par leur professeur·e·s à l'école à quel point il est important d'apprendre à se comporter de manière professionnelle lorsque viendrait le moment d'entrer dans le monde du travail, et certainement que la plupart d'entre nous ont dans leur vie déjà considéré une personne comme non-professionnelle.
 Et quand quelqu'un nous appelle non-professionnel·le, l'insulte nous hérisse.
 
-<!-- To be considered unprofessional, well, that's an attack on our very character.
+<!-- 
+To be considered unprofessional, well, that's an attack on our very character.
 We all instinctively understand this, and the fact that this statement — the idea of universal professionalism — isn't controversial to us today is a sign of its utter victory.
 That's because the world Wilensky lived and worked within was on the cusp of a fundamental, traumatic transformation, the consequences of which we now grapple with today. 
 -->
 Être considéré non-professionnel·le, c'est une remise en question de soi, de son caractère, de sa valeur, une insulte. Nous comprenons que cette idée, celle d'un professionalisme universelle, n'est pas controversée mais le signe indéniable de sa victoire. Pourquoi ? Parce que le monde qu'habitait Wilensky était en train de changer profondément et violemment dans ses structures et ses modes d'opération. Nous en observons les conséquences aujourd'hui.
 
+<!--
 Stop and think about the times you've been called unprofessional.
 Do you know why?
 And what job were you working in?
@@ -70,6 +72,8 @@ But if someone from the 1940s saw Karen calling me, a teenager still finishing h
 Of course I'm unprofessional.
 After all, I'm not a professional.
 Why on earth would I need to “act professional?”
+-->
+A-t'on déjà dit de vous que votre comportement ou attitude était "non-professionnel" ? Savez-vous pourquoi ? Dans quelle situation professionnelle ? Si vous êtes comme moi, c'était probablement dans un emploi étudiant, dans un Fastfood
 
 Instead, my manager from 2000 sternly reprimanded me for my unprofessional behavior.
 
